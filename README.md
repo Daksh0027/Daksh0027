@@ -77,8 +77,8 @@ Exploring simpler interfaces for complicated Indian public-service workflows and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh0027&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh0027&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
 ---
@@ -94,7 +94,20 @@ Exploring simpler interfaces for complicated Indian public-service workflows and
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daksh0027/Daksh0027/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Daksh0027/Daksh0027/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Daksh0027/Daksh0027/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Daksh0027/Daksh0027/output/github-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
