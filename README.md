@@ -66,12 +66,6 @@ An intelligent document-focused platform designed to make working with documents
 
 Building automated workflows that connect APIs, process information, and reduce repetitive manual work.
 
-### 🇮🇳 GovTech Projects
-
-Exploring simpler interfaces for complicated Indian public-service workflows and forms.
-
-> 🚧 More projects coming soon...
-
 ---
 
 ## 📊 GitHub Stats
