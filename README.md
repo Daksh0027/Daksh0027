@@ -127,9 +127,5 @@ If you're interested in **building something cool, collaborating on a project, o
 ---
 
 <p align="center">
-  <i>“Don't just learn how things work. Build something with it.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you find something useful here, consider starring the repository!
+  <i> 迷えば敗れる</i>
 </p>
