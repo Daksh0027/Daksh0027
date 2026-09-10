@@ -128,19 +128,6 @@ Building better products 🚀
 
 ---
 
-## 💡 My Development Philosophy
-
-```cpp
-while (alive) {
-    learn();
-    build();
-    break_things();
-    fix_them();
-    repeat();
-}
-```
-
----
 
 ## 🤝 Let's Connect
 
