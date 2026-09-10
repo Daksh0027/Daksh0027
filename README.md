@@ -112,21 +112,6 @@ Exploring simpler interfaces for complicated Indian public-service workflows and
 
 ---
 
-## 🌱 Currently Learning
-
-```text
-Advanced C++
-        ↓
-System Design
-        ↓
-AI / ML
-        ↓
-Automation
-        ↓
-Building better products 🚀
-```
-
----
 
 
 ## 🤝 Let's Connect
