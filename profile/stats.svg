@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Daksh Shastri&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 24, Total Commits  (last year) : 302, Total PRs: 3, Total Issues: 1, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 24, Total Commits  (last year) : 309, Total PRs: 3, Total Issues: 1, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 185.84472581188624;
+        stroke-dashoffset: 185.49621178420256;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >302</text>
+      >309</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >5</text>
     </g>
   </g>
     </svg>
